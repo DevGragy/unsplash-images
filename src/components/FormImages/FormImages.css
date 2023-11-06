@@ -1,0 +1,15 @@
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    z-index: 2;
+    flex-direction: column;
+}
+
+main input {
+    outline: none;
+    border: solid 1px #eee;
+    padding: 10px 5px;
+    border-radius: 4px;
+}
